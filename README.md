@@ -31,6 +31,8 @@ Welcome to Connect Four, a classic two-player game implemented in Java. Connect 
    git clone https://github.com/your-username/connect-four-java.git
    cd connect-four-java
 2. **Have fun!:**
+
+   
    
 ![Screenshot 2023-10-25 010026](https://github.com/gjzuloaga/ConnectFour/assets/119768381/81dd2b61-fb57-4522-be3f-e85931f9c819)
 
